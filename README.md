@@ -1,4 +1,4 @@
-# ECE-276A-Particle-Filter-SLAM
+# ECE 276A: Particle Filter SLAM
 Implementation of simultaneous localization and mapping (SLAM) with particle filter using real LIDAR data
 
 ## Code:
